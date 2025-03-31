@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Higher Ground SRD 1.0
+description: Alpha edition SRD for the Higher Ground TTRPG
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://ajzinni.github.io/HG_SRD
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/ajzinni/HG_SRD
